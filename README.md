@@ -1,4 +1,4 @@
 # PEVIEW
-PE-VIEW: C++/Reverse Engineering Project
+PE-VIEW: C++/Reverse Engineering Program
 
-Dumps Windows Portable Executable(PE) file header into console.
+Dumps Windows Portable Executable(PE) file header information into screen.
